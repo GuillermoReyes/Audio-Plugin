@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="svCHhg" name="TheSaucePlugin" projectType="audioplug" jucerVersion="5.4.1"
+              companyName="DJSwivel">
+  <MAINGROUP id="a0a5bH" name="TheSaucePlugin">
+    <GROUP id="{5888825D-75C4-C4FD-706B-60C8EE041C46}" name="Source">
+      <GROUP id="{3FCBC399-F3C6-1A61-F703-686A6715FC3E}" name="Assets">
+        <FILE id="nhqXqp" name="Button-Large.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/Button-Large.svg"/>
+        <FILE id="VDJpMl" name="Button-Medium.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/Button-Medium.svg"/>
+        <FILE id="bUm7WQ" name="Button-Small-Active.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/Button-Small-Active.svg"/>
+        <FILE id="XNGLCD" name="Button-Small.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/Button-Small.svg"/>
+        <FILE id="whiMHq" name="DJ-Swivel-Logo.png" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/DJ-Swivel-Logo.png"/>
+        <FILE id="jtxG7U" name="DJ-Swivel-Logo@2x.png" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce copy/DJ-Swivel-Logo@2x.png"/>
+        <FILE id="eqkT9T" name="FontAwesome.otf" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/FontAwesome.otf"/>
+        <FILE id="GbFzxW" name="Gotham-Black.otf" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/Gotham-Font/Gotham-Black.otf"/>
+        <FILE id="uDQ8Ei" name="Gotham-Book.otf" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/Gotham-Font/Gotham-Book.otf"/>
+        <FILE id="QFWH8r" name="Knob-Large.png" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/Knob-Large.png"/>
+        <FILE id="tg5TAa" name="Knob-Large.svg" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/Knob-Large.svg"/>
+        <FILE id="Ptqjoq" name="Knob-Medium.png" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/Knob-Medium.png"/>
+        <FILE id="Xgwd43" name="Knob-Medium.svg" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/Knob-Medium.svg"/>
+        <FILE id="Fc9rFn" name="Knob-Small.svg" compile="0" resource="1" file="../Downloads/DJ-Swivel-The-Sauce/Knob-Small.svg"/>
+        <FILE id="VAEdan" name="The Sauce - Logo.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The Sauce - Logo.svg"/>
+        <FILE id="Fp4kPt" name="The-Sauce-Background.png" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Background.png"/>
+        <FILE id="ZYN3XC" name="The-Sauce-Background.png" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce copy/The-Sauce-Background.png"/>
+        <FILE id="VL2t3K" name="The-Sauce-Background.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce copy/The-Sauce-Background.svg"/>
+        <FILE id="cLXPLg" name="The-Sauce-Background.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Background.svg"/>
+        <FILE id="NZtFUa" name="The-Sauce-Bottom-Middle-Container.svg" compile="0"
+              resource="1" file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Bottom-Middle-Container.svg"/>
+        <FILE id="sGoPeG" name="The-Sauce-Bottom-Right-Container.svg" compile="0"
+              resource="1" file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Bottom-Right-Container.svg"/>
+        <FILE id="an2xgU" name="The-Sauce-Shell.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Shell.svg"/>
+        <FILE id="rql2jj" name="The-Sauce-Splash.png" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Splash.png"/>
+        <FILE id="FpAbXc" name="The-Sauce-Toolbar.png" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Toolbar.png"/>
+        <FILE id="dYXeM4" name="The-Sauce-Toolbar.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Toolbar.svg"/>
+        <FILE id="tqlyDX" name="The-Sauce-Top-Container.svg" compile="0" resource="1"
+              file="../Downloads/DJ-Swivel-The-Sauce/The-Sauce-Top-Container.svg"/>
+        <FILE id="GRiIxr" name="wingdings regular.ttf" compile="0" resource="1"
+              file="../Downloads/wingdings regular.ttf"/>
+      </GROUP>
+      <GROUP id="{24450282-B6A5-45DD-52AF-DC67AAF99D64}" name="Misc">
+        <FILE id="lKoyv4" name="Authentication.cpp" compile="1" resource="0"
+              file="Source/Authentication.cpp"/>
+        <FILE id="AX2NLo" name="Authentication.h" compile="0" resource="0"
+              file="Source/Authentication.h"/>
+        <FILE id="kQ04OR" name="DryWet.h" compile="0" resource="0" file="Source/DryWet.h"/>
+        <FILE id="d953VY" name="Gain.h" compile="0" resource="0" file="Source/Gain.h"/>
+        <FILE id="yEAGoZ" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
+        <FILE id="C7aT8C" name="State.cpp" compile="1" resource="0" file="Source/State.cpp"/>
+        <FILE id="dlcmQy" name="State.h" compile="0" resource="0" file="Source/State.h"/>
+      </GROUP>
+      <GROUP id="{479262D2-B1AE-49E2-22E8-C278A9F7EE8E}" name="Effects">
+        <FILE id="wDkGtz" name="ChorusEffect.cpp" compile="1" resource="0"
+              file="Source/ChorusEffect.cpp"/>
+        <FILE id="pSfGdt" name="ChorusEffect.h" compile="0" resource="0" file="Source/ChorusEffect.h"/>
+        <FILE id="ktLp8a" name="DelayEffect.cpp" compile="1" resource="0" file="Source/DelayEffect.cpp"/>
+        <FILE id="iUiD5K" name="DelayEffect.h" compile="0" resource="0" file="Source/DelayEffect.h"/>
+        <FILE id="G1eGIc" name="DistortionEffect.cpp" compile="1" resource="0"
+              file="Source/DistortionEffect.cpp"/>
+        <FILE id="t6QUt2" name="DistortionEffect.h" compile="0" resource="0"
+              file="Source/DistortionEffect.h"/>
+        <FILE id="PtP1G3" name="PitchShift.cpp" compile="1" resource="0" file="Source/PitchShift.cpp"/>
+        <FILE id="K0qPKJ" name="PitchShift.h" compile="0" resource="0" file="Source/PitchShift.h"/>
+        <FILE id="xzEoaD" name="ProcessorBase.cpp" compile="1" resource="0"
+              file="Source/ProcessorBase.cpp"/>
+        <FILE id="oohTgm" name="ProcessorBase.h" compile="0" resource="0" file="Source/ProcessorBase.h"/>
+        <FILE id="VzSwv5" name="ReverbEffect.cpp" compile="1" resource="0"
+              file="Source/ReverbEffect.cpp"/>
+        <FILE id="n2IBAR" name="ReverbEffect.h" compile="0" resource="0" file="Source/ReverbEffect.h"/>
+      </GROUP>
+      <GROUP id="{972A332C-A3BC-CA07-ECD6-771196285F9A}" name="GUI">
+        <FILE id="L8oi4Y" name="TheSauceComponents.cpp" compile="1" resource="0"
+              file="Source/TheSauceComponents.cpp"/>
+        <FILE id="Qayi8T" name="TheSauceComponents.h" compile="0" resource="0"
+              file="Source/TheSauceComponents.h"/>
+        <FILE id="XsrMuk" name="TheSauceLookAndFeel.cpp" compile="1" resource="0"
+              file="Source/TheSauceLookAndFeel.cpp"/>
+        <FILE id="OZSgAy" name="TheSauceLookAndFeel.h" compile="0" resource="0"
+              file="Source/TheSauceLookAndFeel.h"/>
+      </GROUP>
+      <FILE id="Wrk0jn" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="DYEjms" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="kLLhhV" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="oY2AJE" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX" externalLibraries="rubberband" extraLinkerFlags="-L/Users/guillermo/Downloads/rubberband-master/lib"
+               extraCompilerFlags="-I/Users/guillermo/Downloads/rubberband-master/rubberband">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_video" path="../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../Downloads/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_video" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+</JUCERPROJECT>
